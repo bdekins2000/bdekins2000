@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bdekins2000
-- 👀 I’m interested in proggraming
-- 🌱 I’m currently learning c and python
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning c/c++, html, css, javascript and python
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me - github
 
